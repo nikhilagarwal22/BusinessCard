@@ -107,18 +107,18 @@ p{
 .card-header-profile h1{
     margin: 8px 0;
     font-size: 32px;
-    color: #242038;
+    color: black;
 }
 
 .card-header-profile p{
     margin: 0;
     font-size: 18px;
-    color: #1B263B;
+    color: black;
 }
 
-.card-header-profile p:last-child{
+/* .card-header-profile p:last-child{
     font-weight: 600;
-}
+} */
 
 .card-header-nav-links{
     display: flex;

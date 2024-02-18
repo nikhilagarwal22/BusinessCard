@@ -12,7 +12,7 @@ const copyToClipBoard = () => {
 const CardFloaters = () => {
  return (
      <>
-     <a href="./assets/NikhilAgarwal.vcf" download="RishabhAgarwal" className="card-floaters floater-right-btn">
+     <a href="./assets/NikhilAgarwal.vcf" download="NikhilAgarwal" className="card-floaters floater-right-btn">
          <p>Add to Contact</p>
          <i class="fa-solid fa-plus"></i>
      </a>
