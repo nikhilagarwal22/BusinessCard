@@ -5,7 +5,7 @@ import Loader from './components/PageLoader';
 import VideoBackground from './components/Background';
 import CardContact from './components/CardContact';
 import CardAboutMe from './components/CardAboutMe';
-import CardSocials from './components/CardSocials';
+// import CardSocials from './components/CardSocials';
 import CardPay from './components/CardPay';
 // import CardButtons from './components/CardButtons';
 import CardFloaters from './components/CardFloaters';
@@ -19,7 +19,7 @@ function App() {
         <CardHeader />
         <CardContact />
         <CardAboutMe />
-        <CardSocials />
+        {/* <CardSocials /> */}
         <CardProducts />
         <CardPay />
         {/* <CardButtons /> */}

@@ -59,8 +59,8 @@ button{
 
 #loader > img{
   display: block;
-  height: 220px;
-  width: 220px;
+  height: 250px;
+  width: 250px;
   animation: fadeInEnlarge 2s forwards linear;
 }
 
